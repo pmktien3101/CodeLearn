@@ -28,5 +28,5 @@ Khi muốn xem điểm thì chỉ cần chọn vào xem điểm, điểm sẽ đ
 #### 7.Lập trình trực tuyến và có video hướng dẫn:
 Cho phép sinh viên có thể lập trình trực tuyến và có video hướng dẫn cụ thể về kiến thức.
 
-#### 8.cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
+#### 8.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
 Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code và hỗ trợ cho sinh viên trong quá trình học lập trình.
