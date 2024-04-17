@@ -31,9 +31,12 @@ Cho phép sinh viên có thể lập trình trực tuyến và có video hướn
 #### 8.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
 Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code và hỗ trợ cho sinh viên trong quá trình học lập trình.
 ## Design
-Login
+#####Login
+
 <img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0902e0c4-2958-40a6-9350-43e78af951cd">
-Register
+
+######Register
+
 <img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8084cf2c-5732-42c7-9d4c-02e4c5a32779">
 
 
