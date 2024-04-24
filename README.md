@@ -39,4 +39,8 @@ Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code v�
 
 <img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8084cf2c-5732-42c7-9d4c-02e4c5a32779">
 
+##### Dashboard
+
+<img width="946" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c0f068f6-b57f-47f2-9322-4adb672da3f6">
+
 
