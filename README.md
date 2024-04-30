@@ -4,22 +4,29 @@
 Chương trình tập trung vào việc dạy học lập trình và đánh giá bài tập của sinh viên thông qua một quy trình tự động. Chương trình này đang tiến triển từ một hệ thống cơ bản đến một nền tảng phức tạp hơn, mang lại trải nghiệm học tập tốt hơn và hỗ trợ sinh viên hiệu quả hơn trong việc học lập trình.
 
 ## Người sử dụng: 
-Sinh viên trường FU
-
+- Sinh viên trường FU
+- Giảng viên trường FU
+- Quản trị viên
+  
 ## Chức năng chính:
-#### 1.Đăng nhập / đăng xuất khỏi trang chủ:
-Cho phép người dùng truy cập và quản lý thông tin cá nhân trên hệ thống hoặc thoát khỏi trang chủ .Người dùng nhập thông tin đăng nhập, bao gồm email và mật khẩu. 
+### Giảng viên
+#### 1. Tạo topic:
+Cho phép giảng viên khi đăng nhập vào hệ thống có thể tạo chủ đề nào đó để giao cho sinh viên làm bài. Và trong chủ đề đó giảng viên tạo một danh sách các câu hỏi liên quan tới chủ đề chính.
 
-#### 2.Đăng ký tài khoản:
-Cho phép người dùng tạo ra một tài khoản cá nhân trên hệ thống.Người dùng cung cấp thông tin cần thiết như tên, email, mật khẩu, và bất kỳ thông tin cá nhân khác cần thiết.
+#### 2. Tạo câu hỏi trong topic:
+Bên cạnh việc tạo câu hỏi thì giảng viên có thể chỉnh sửa lại thông tin của câu hỏi nếu thấy sai, hoặc có thể upload hoặc chỉnh sửa lại kết quả của câu hỏi đó. Hoặc giảng viên có thể tự test xem câu hỏi giảng viên đưa lên có đúng hay không.
 
-#### 3.Thay đổi mật khẩu khi quên mật khẩu đăng nhập:
-Nếu người dùng quên mật khẩu đăng nhập thì có thể thay đổi mật khẩu để đăng nhập vào trang chủ.Sẽ gửi gmail về để xác nhận đổi mật khẩu.
+#### 3. Tạo khóa học:
+Cho phép giảng viên có thể tạo khóa học bằng cách thêm học sinh vào khóa học đó, giảng viên có thể thêm bằng tay hoặc import bằng file Excel.
 
-#### 4.Thay đổi thông tin/ thay đổi mật khẩu:
-Cho phép người dùng cập nhật và quản lý thông tin cá nhân của họ. Thay đổi thông tin: Người dùng chọn mục cần thay đổi, nhập thông tin mới, và xác nhận sự thay đổi. Hệ thống cập nhật thông tin trong cơ sở dữ liệu. 
+#### 4. Report:
+Cho phép giảng viên có thể xem điểm, in điểm trong khóa học đó thành file Excel.
 
-#### 5.Nộp bài tập của mình lên web:
+### Sinh viên
+#### 1. Tham gia vào khóa học:
+Sinh viên có thể tham gia vào khóa học cái được giảng viên tạo ra trước đó để vào làm bài.
+
+#### 2.Nộp bài tập của mình lên web:
 Cho phép sinh viên nộp câu trả lời của câu hỏi lên trên hệ thống khi làm xong. Bài sẽ được biên dịch ra file jar và đối chiếu với test case và lưu xuống dưới cơ sở dữ liệu.
 
 #### 6.Xem điểm được xuất ra thành file excel:
@@ -30,6 +37,17 @@ Cho phép sinh viên có thể lập trình trực tuyến và có video hướn
 
 #### 8.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
 Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code và hỗ trợ cho sinh viên trong quá trình học lập trình.
+
+### Admin
+#### 1. Quản lý tài khoản:
+Quản trị viên quản lý tài khoản của của người dùng, cho phép người dùng nào đăng ký rồi truy cập vào hệ thống
+
+#### 2. Quản lý nhóm:
+Quản trị viên có thể quản lý nhóm người sử dụng hệ thống
+
+#### 3. Audit log:
+Quản trị viên có thể theo dõi tài khoản và hoạt động của người dùng và giảng viên, với các báo cáo theo thời gian.
+
 ## Design
 ##### Login
 
