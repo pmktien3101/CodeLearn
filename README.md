@@ -51,11 +51,11 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 ## Design
 ##### Login
 
-<img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0902e0c4-2958-40a6-9350-43e78af951cd">
+<img width="935" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/60116c8d-de61-4137-a572-8a14a5bbd49d">
 
 ##### Register
 
-<img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8084cf2c-5732-42c7-9d4c-02e4c5a32779">
+<img width="931" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/09e67c59-480e-4bd6-b696-00e3bf699646">
 
 ##### Dashboard Teacher
 
