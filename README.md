@@ -115,6 +115,9 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 <img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/d28916c8-2bd7-4851-84ac-64d28c99c02b">
 
+##### Dashboard Admin 
+
+<img width="574" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8ffeaa9f-cd3f-403f-a1cd-854ec5802c06">
 
 
 
