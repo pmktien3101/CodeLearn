@@ -35,16 +35,16 @@ Sinh viên có thể tham gia vào khóa học cái được giảng viên tạo
 #### 2.Nộp bài tập của mình lên web:
 Cho phép sinh viên nộp câu trả lời của câu hỏi lên trên hệ thống khi làm xong. Bài sẽ được biên dịch ra file jar và đối chiếu với test case và lưu xuống dưới cơ sở dữ liệu.
 
-#### 6.Xem điểm được xuất ra thành file excel:
+#### 3.Xem điểm được xuất ra thành file excel:
 Khi muốn xem điểm thì chỉ cần chọn vào xem điểm, điểm sẽ được xuất ra dưới dạng file excel cái mà được lưu dưới cơ sở dữ liệu.
 
-#### 7. Bình luận câu hỏi:
+#### 4. Bình luận câu hỏi:
 Khi có thắc mắc cần giải đáp có thể bình luận vào câu hỏi đó để giảng viên phản hồi về cho mình.
 
-#### 8.Lập trình trực tuyến và có video hướng dẫn:
+#### 5.Lập trình trực tuyến và có video hướng dẫn:
 Cho phép sinh viên có thể lập trình trực tuyến và có video hướng dẫn cụ thể về kiến thức.
 
-#### 9.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
+#### 6.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
 Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code và hỗ trợ cho sinh viên trong quá trình học lập trình.
 
 ### Admin
