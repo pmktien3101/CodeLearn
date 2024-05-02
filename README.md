@@ -19,7 +19,13 @@ Bên cạnh việc tạo câu hỏi thì giảng viên có thể chỉnh sửa l
 #### 3. Tạo khóa học:
 Cho phép giảng viên có thể tạo khóa học bằng cách thêm học sinh vào khóa học đó, giảng viên có thể thêm bằng tay hoặc import bằng file Excel.
 
-#### 4. Report:
+#### 4. Copy topic:
+Giảng viên có thể dễ dàng sao chép các chủ đề đã tạo để sử dụng lại trong các lớp học khác mà không cần tạo lại từ đầu.
+
+#### 5. Share topic:
+Chức năng chia sẻ chủ đề cho phép giảng viên chia sẻ các chủ đề và tài liệu liên quan với sinh viên một cách nhanh chóng và dễ dàng.
+
+#### 6. Report:
 Cho phép giảng viên có thể xem điểm, in điểm trong khóa học đó thành file Excel.
 
 ### Sinh viên
@@ -32,10 +38,13 @@ Cho phép sinh viên nộp câu trả lời của câu hỏi lên trên hệ th�
 #### 6.Xem điểm được xuất ra thành file excel:
 Khi muốn xem điểm thì chỉ cần chọn vào xem điểm, điểm sẽ được xuất ra dưới dạng file excel cái mà được lưu dưới cơ sở dữ liệu.
 
-#### 7.Lập trình trực tuyến và có video hướng dẫn:
+#### 7. Bình luận câu hỏi:
+Khi có thắc mắc cần giải đáp có thể bình luận vào câu hỏi đó để giảng viên phản hồi về cho mình.
+
+#### 8.Lập trình trực tuyến và có video hướng dẫn:
 Cho phép sinh viên có thể lập trình trực tuyến và có video hướng dẫn cụ thể về kiến thức.
 
-#### 8.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
+#### 9.Cung cấp hướng dẫn code và hỗ trợ tích hợp ChatGPT:
 Chương trình sẽ tích hợp ChatGPT để cung cấp hướng dẫn code và hỗ trợ cho sinh viên trong quá trình học lập trình.
 
 ### Admin
