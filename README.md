@@ -58,13 +58,6 @@ Quản trị viên có thể quản lý nhóm người sử dụng hệ thống
 Quản trị viên có thể theo dõi tài khoản và hoạt động của người dùng và giảng viên, với các báo cáo theo thời gian.
 
 ## Design
-##### Login
-
-<img width="935" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/60116c8d-de61-4137-a572-8a14a5bbd49d">
-
-##### Register
-
-<img width="931" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/09e67c59-480e-4bd6-b696-00e3bf699646">
 
 ##### Home 
 
@@ -104,9 +97,9 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### Create Question
 
-<img width="281" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/689d77cc-1ba3-4198-82a6-9370343ae3e0">
+<img width="442" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c122d90c-a3ea-475c-9774-6ba7f3afd169">
 
-###### Edit Question 
+##### Edit Question 
 
 <img width="446" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/93305729-a710-4930-974d-20d93f0e134b">
 
