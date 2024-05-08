@@ -66,74 +66,49 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 <img width="931" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/09e67c59-480e-4bd6-b696-00e3bf699646">
 
+##### Home 
+
+<img width="391" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/f016262d-eea7-4086-9708-f4c018609dd9">
+
 ##### Dashboard Teacher
 
-<img width="527" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/d9baea19-1058-4c60-aef5-1f3a9a01cdbc">
-
-##### Create Course
-
-<img width="518" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/747ef7d6-21a5-47c0-8b5c-57ddf8f39262">
+<img width="393" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/e771ee2f-4006-4e33-8c59-f7471327766a">
 
 ##### My Course
 
-<img width="510" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/fdeaa282-b739-4bef-90f4-02f1211364c1">
+<img width="386" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/974e79f0-97e3-4197-b636-98cb9b45783e">
 
-##### View Grade
+##### Create Course
 
-<img width="514" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8cf64093-a3fb-45bf-a13e-d01e1ac95e34">
+<img width="392" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0fed0edf-6a5b-413c-96f0-c28c7293df7e">
 
 ##### My Topic
 
-<img width="485" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/6975c740-b646-4878-8c41-c176cab13c0c">
+<img width="393" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/27c85923-d436-4c9d-bb39-06400680f532">
+
+##### View Grade
+
+<img width="391" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/6fcb2e13-c1e1-44ad-a015-39d7fed8fbf1">
+
+##### View Topic 
+
+<img width="323" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/9d1c6e73-76c9-4ea4-b6c7-8acd472cb649">
 
 ##### Create Topic
 
-<img width="488" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/b9badd08-94ba-4f67-8dbc-78996009eb9f">
+<img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0c40ff1d-af05-440b-967c-2cab74dde320">
+
+##### Edit Topic 
+
+<img width="387" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/12de0009-9f87-485e-9137-55fe65f01a53">
 
 ##### Create Question
 
-<img width="484" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/3481191c-8a44-4aa0-b033-b358b55af200">
+<img width="281" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/689d77cc-1ba3-4198-82a6-9370343ae3e0">
 
-##### Dashboard Student
+###### Edit Question 
 
-<img width="509" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/93da9f02-0cec-4ce3-8908-498847fc016c">
-
-##### Enrol Course
-
-<img width="511" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/08028586-d9b4-4cf2-ba9e-226d537c3fed">
-
-##### Course Information
-
-<img width="498" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/426b62b8-3738-46bb-a1ad-25323a6c1eec">
-
-##### Search Course 
-
-<img width="497" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/85682441-90c8-4bdb-a300-288ba85b9dae">
-
-##### Submission
-
-<img width="491" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0808dcd3-e555-4349-92b1-7eade3c30d88">
-
-<img width="501" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/42edf67b-c3e1-4b95-9ad8-356fd6075e55">
-
-##### Check Result 
-
-<img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/e58e998d-6f50-4876-a642-d6d3be27e491">
-
-##### Comment 
-
-<img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/d28916c8-2bd7-4851-84ac-64d28c99c02b">
-
-##### Dashboard Admin 
-
-<img width="574" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8ffeaa9f-cd3f-403f-a1cd-854ec5802c06">
-
-
-
-
-
-
-
+<img width="446" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/93305729-a710-4930-974d-20d93f0e134b">
 
 
 
