@@ -80,7 +80,7 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### View Grade
 
-<img width="391" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/6fcb2e13-c1e1-44ad-a015-39d7fed8fbf1">
+<img width="488" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/344be0e0-22bf-4d1a-bcb4-94b393ddc847">
 
 ##### View Topic 
 
