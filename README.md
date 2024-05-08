@@ -1,4 +1,4 @@
-# CodeLearn
+<img width="479" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/a6998f91-b52e-489a-baa4-307172ae020c"># CodeLearn
 
 ## Mục đích: 
 Chương trình tập trung vào việc dạy học lập trình và đánh giá bài tập của sinh viên thông qua một quy trình tự động. Chương trình này đang tiến triển từ một hệ thống cơ bản đến một nền tảng phức tạp hơn, mang lại trải nghiệm học tập tốt hơn và hỗ trợ sinh viên hiệu quả hơn trong việc học lập trình.
@@ -77,7 +77,7 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### My Topic
 
-<img width="393" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/27c85923-d436-4c9d-bb39-06400680f532">
+<img width="479" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/32bf2a94-5f35-49fd-a49c-61064019ef59">
 
 ##### View Grade
 
@@ -85,11 +85,11 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### View Topic 
 
-<img width="323" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/9d1c6e73-76c9-4ea4-b6c7-8acd472cb649">
+<img width="485" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/8aecebb9-4e76-447e-abab-cc5e9b5b72e0">
 
 ##### Create Topic
 
-<img width="390" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0c40ff1d-af05-440b-967c-2cab74dde320">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/e7bf7481-a424-4de6-b62a-52f620d85a40">
 
 ##### Edit Topic 
 
