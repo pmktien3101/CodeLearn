@@ -93,7 +93,7 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### Edit Topic 
 
-<img width="387" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/12de0009-9f87-485e-9137-55fe65f01a53">
+<img width="485" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/d2cdeede-b3e4-4efa-923e-7807ef9edf85">
 
 ##### Create Question
 
