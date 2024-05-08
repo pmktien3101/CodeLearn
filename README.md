@@ -1,4 +1,3 @@
-<img width="479" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/a6998f91-b52e-489a-baa4-307172ae020c"># CodeLearn
 
 ## Mục đích: 
 Chương trình tập trung vào việc dạy học lập trình và đánh giá bài tập của sinh viên thông qua một quy trình tự động. Chương trình này đang tiến triển từ một hệ thống cơ bản đến một nền tảng phức tạp hơn, mang lại trải nghiệm học tập tốt hơn và hỗ trợ sinh viên hiệu quả hơn trong việc học lập trình.
@@ -61,19 +60,19 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### Home 
 
-<img width="391" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/f016262d-eea7-4086-9708-f4c018609dd9">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/202aba1f-0b1d-45f0-8c19-705539734784">
 
 ##### Dashboard Teacher
 
-<img width="393" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/e771ee2f-4006-4e33-8c59-f7471327766a">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/861ef111-6eb0-48c7-b102-e4d6d9406275">
 
 ##### My Course
 
-<img width="386" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/974e79f0-97e3-4197-b636-98cb9b45783e">
+<img width="490" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/61195eb5-b8c5-4c99-b02a-46f1319c368b">
 
 ##### Create Course
 
-<img width="392" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0fed0edf-6a5b-413c-96f0-c28c7293df7e">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c63f8717-de4a-4332-b234-abdc4f3746c6">
 
 ##### My Topic
 
@@ -97,11 +96,12 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 ##### Create Question
 
-<img width="442" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c122d90c-a3ea-475c-9774-6ba7f3afd169">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/ee4f2a2e-a79d-4ed2-8019-31c5496f1840">
 
 ##### Edit Question 
 
-<img width="446" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/93305729-a710-4930-974d-20d93f0e134b">
+<img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c8451a7b-7767-42e5-b3c4-ba67a9cbfd66">
+
 
 
 
