@@ -57,7 +57,7 @@ Quản trị viên có thể quản lý nhóm người sử dụng hệ thống
 Quản trị viên có thể theo dõi tài khoản và hoạt động của người dùng và giảng viên, với các báo cáo theo thời gian.
 
 ## Design
-
+### TEACHER 
 ##### Home 
 
 <img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/202aba1f-0b1d-45f0-8c19-705539734784">
@@ -102,7 +102,45 @@ Quản trị viên có thể theo dõi tài khoản và hoạt động của ng�
 
 <img width="482" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c8451a7b-7767-42e5-b3c4-ba67a9cbfd66">
 
+### STUDENT
 
+##### Home 
 
+<img width="494" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/e8658493-4660-4a1f-94f8-b983072a8e81">
 
+##### Dashboard
+
+<img width="494" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/080baea7-175e-44fe-b598-8e2eca799005">
+
+##### My Course
+
+<img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/cce22c52-02ea-4491-b6ee-7bd02e6b889d">
+
+##### Course 
+
+<img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/c08ebcd5-7b46-4090-bf78-34546f8212a7">
+
+##### Search Course
+
+<img width="494" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/0e55393b-6da1-4ee5-8a31-519a827d5f36">
+
+##### Enroll Course
+
+<img width="493" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/2785fd79-b714-45f5-ab14-97870dd64c1d">
+
+##### Course Information
+
+<img width="492" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/63389c71-1b24-4690-b1d0-d05ea0a458fb">
+
+##### Question Information
+
+<img width="500" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/6426d738-6f48-4a1f-80c8-033afe6808ed">
+
+##### Submission
+
+<img width="493" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/b8830b98-9309-4506-9a2d-71cb1cedef9d">
+
+##### After Submission 
+
+<img width="491" alt="image" src="https://github.com/pmktien3101/CodeLearn/assets/127570843/d84b5a6c-881a-43a7-a190-4f980f8a8ea5">
 
