@@ -19,14 +19,16 @@ import java.util.List;
 @RestController
 @RequestMapping("/course")
 @RequiredArgsConstructor
+@CrossOrigin(origins = "*")
 public class CourseController {
 
     private  final ICourseRepository iCourseRepository;
     private  final ITopicRepository iTopicRepository;
     private  final IAccountRepository iAccountRepository;
 
-    @CrossOrigin("*")
+
     @GetMapping ("/get-all-course")
+    @CrossOrigin(origins = "*")
     public ResponseEntity<List<CourseDTO>> getAllCourse() {
 
         List<Course> courseList = iCourseRepository.findAll();
