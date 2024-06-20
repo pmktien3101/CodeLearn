@@ -1,10 +1,9 @@
-package hd.fe.com.pojo;
+package hd.fe.com.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.math.BigDecimal;
 import java.time.Instant;
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -12,28 +11,25 @@ import java.util.Set;
 @Getter
 @Setter
 @Entity
-@Table(name = "assessment")
-public class Assessment {
+@Table(name = "topic")
+public class Topic {
     @Id
-    @Column(name = "assessment_uuid", nullable = false, length = 36)
+    @Column(name = "topic_uuid", nullable = false, length = 36)
     @GeneratedValue(strategy = GenerationType.UUID)
-    private String assessmentUuid;
+    private String topicUuid;
 
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @JoinColumn(name = "submission_uuid", nullable = false)
-    private Submission submissionUuid;
+    @JoinColumn(name = "account_uuid", nullable = false)
+    private Account accountUuid;
 
-    @Column(name = "assessment_number")
-    private Integer assessmentNumber;
+    @Column(name = "name", nullable = false, length = 100)
+    private String name;
 
-    @Column(name = "mark", precision = 5, scale = 2)
-    private BigDecimal mark;
+    @Column(name = "type", length = 20)
+    private String type;
 
-    @Column(name = "assessment_date")
-    private Instant assessmentDate;
-
-    @Column(name = "feedback", length = 40)
-    private String feedback;
+    @Column(name = "description", length = 100)
+    private String description;
 
     @Column(name = "inactive")
     private Boolean inactive;
@@ -53,7 +49,10 @@ public class Assessment {
     @Column(name = "last_modified_user", length = 40)
     private String lastModifiedUser;
 
-    @OneToMany(mappedBy = "assessmentUuid")
-    private Set<DdAssessmentStatus> ddAssessmentStatuses = new LinkedHashSet<>();
+//    @OneToMany(mappedBy = "topicUuid")
+//    private Set<Course> courses = new LinkedHashSet<>();
+
+    @OneToMany(mappedBy = "topicUuid")
+    private Set<Question> questions = new LinkedHashSet<>();
 
 }

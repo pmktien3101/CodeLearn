@@ -1,26 +1,28 @@
-package hd.fe.com.pojo;
+package hd.fe.com.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
 import java.time.Instant;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 @Getter
 @Setter
 @Entity
-@Table(name = "category")
-public class Category {
+@Table(name = "role")
+public class Role {
     @Id
-    @Column(name = "category_uuid", nullable = false, length = 36)
-    private String categoryUuid;
-
-    @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @JoinColumn(name = "course_uuid", nullable = false)
-    private Course courseUuid;
+    @Column(name = "role_uuid", nullable = false, length = 36)
+    @GeneratedValue(strategy = GenerationType.UUID)
+    private String roleUuid;
 
     @Column(name = "name", nullable = false, length = 40)
     private String name;
+
+    @Column(name = "description", length = 100)
+    private String description;
 
     @Column(name = "inactive")
     private Boolean inactive;
@@ -39,5 +41,8 @@ public class Category {
 
     @Column(name = "last_modified_user", length = 40)
     private String lastModifiedUser;
+
+    @OneToMany(mappedBy = "roleUuid")
+    private Set<UsergroupRole> usergroupRoles = new LinkedHashSet<>();
 
 }

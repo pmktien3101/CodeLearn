@@ -1,4 +1,4 @@
-package hd.fe.com.pojo;
+package hd.fe.com.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -11,22 +11,15 @@ import java.util.Set;
 @Getter
 @Setter
 @Entity
-@Table(name = "topic")
-public class Topic {
+@Table(name = "usergroup")
+public class Usergroup {
     @Id
-    @Column(name = "topic_uuid", nullable = false, length = 36)
+    @Column(name = "usergroup_uuid", nullable = false, length = 36)
     @GeneratedValue(strategy = GenerationType.UUID)
-    private String topicUuid;
+    private String usergroupUuid;
 
-    @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @JoinColumn(name = "account_uuid", nullable = false)
-    private Account accountUuid;
-
-    @Column(name = "name", nullable = false, length = 100)
+    @Column(name = "name", nullable = false, length = 40)
     private String name;
-
-    @Column(name = "type", length = 20)
-    private String type;
 
     @Column(name = "description", length = 100)
     private String description;
@@ -49,10 +42,10 @@ public class Topic {
     @Column(name = "last_modified_user", length = 40)
     private String lastModifiedUser;
 
-//    @OneToMany(mappedBy = "topicUuid")
-//    private Set<Course> courses = new LinkedHashSet<>();
+    @OneToMany(mappedBy = "usergroupUuid")
+    private Set<UsergroupRole> usergroupRoles = new LinkedHashSet<>();
 
-    @OneToMany(mappedBy = "topicUuid")
-    private Set<Question> questions = new LinkedHashSet<>();
+    @OneToMany(mappedBy = "usergroupUuid")
+    private Set<UsergroupUser> usergroupUsers = new LinkedHashSet<>();
 
 }

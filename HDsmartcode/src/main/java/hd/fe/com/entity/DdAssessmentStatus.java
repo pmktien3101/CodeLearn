@@ -1,4 +1,4 @@
-package hd.fe.com.pojo;
+package hd.fe.com.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -9,15 +9,15 @@ import java.time.Instant;
 @Getter
 @Setter
 @Entity
-@Table(name = "dd_course_status")
-public class DdCourseStatus {
+@Table(name = "dd_assessment_status")
+public class DdAssessmentStatus {
     @Id
     @Column(name = "code", nullable = false, length = 5)
     private String code;
 
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @JoinColumn(name = "course_uuid", nullable = false)
-    private Course courseUuid;
+    @JoinColumn(name = "assessment_uuid", nullable = false)
+    private Assessment assessmentUuid;
 
     @Column(name = "name", nullable = false, length = 50)
     private String name;

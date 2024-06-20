@@ -1,10 +1,9 @@
 package hd.fe.com.mapper;
 
-import hd.fe.com.dto.CourseDTO;
-import hd.fe.com.pojo.Course;
+import hd.fe.com.dto.response.CourseResponse;
+import hd.fe.com.entity.Course;
 import org.springframework.stereotype.Component;
 
-import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,11 +11,11 @@ import java.util.List;
 public class CourseMapper {
 
 
-    public static List<CourseDTO> mapToListCourseDTO(List<Course> courseList) {
-        List<CourseDTO> courseDTOList = new ArrayList<>();
+    public static List<CourseResponse> mapToListCourseDTO(List<Course> courseList) {
+        List<CourseResponse> courseDTOList = new ArrayList<>();
 
         for (Course course : courseList) {
-            CourseDTO courseDTO = new CourseDTO();
+            CourseResponse courseDTO = new CourseResponse();
             courseDTO.setCourseId(course.getCourseUuid());
             courseDTO.setAccountId(course.getAccountUuid().getAccountUuid());
             courseDTO.setTopicId(course.getTopicUuid().getTopicUuid());

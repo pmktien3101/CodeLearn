@@ -1,6 +1,6 @@
 package hd.fe.com.repository;
 
-import hd.fe.com.pojo.Account;
+import hd.fe.com.entity.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

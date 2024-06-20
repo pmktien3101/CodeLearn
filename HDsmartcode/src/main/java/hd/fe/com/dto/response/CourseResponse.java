@@ -1,4 +1,4 @@
-package hd.fe.com.dto;
+package hd.fe.com.dto.response;
 
 
 import lombok.AllArgsConstructor;
@@ -10,7 +10,7 @@ import java.time.Instant;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class CourseDTO {
+public class CourseResponse {
     private String courseId;
     private String accountId;
     private String topicId;
